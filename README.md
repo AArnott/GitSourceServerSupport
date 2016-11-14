@@ -1,6 +1,8 @@
 PdbGit
 ==========
 
+[![Join the chat at https://gitter.im/PdbGit/Lobby](https://badges.gitter.im/PdbGit/Lobby.svg)](https://gitter.im/PdbGit/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build status](https://ci.appveyor.com/api/projects/status/g56b4xyl4q0ean8i/branch/develop?svg=true)](https://ci.appveyor.com/project/AArnott/gitlink/branch/develop)
 
 [![Join the chat at https://gitter.im/AArnott/PdbGit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AArnott/PdbGit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
